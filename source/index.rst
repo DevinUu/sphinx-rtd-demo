@@ -4,8 +4,9 @@
    contain the root `toctree` directive.
 
 Welcome to sphinxReadTheDocsDemo's documentation!
-欢迎来到 sphinxReadTheDocsDemo 的文档!
 =================================================
+欢迎来到 sphinxReadTheDocsDemo 的文档!
+=====================================
 
 .. toctree::
    :maxdepth: 2
@@ -19,4 +20,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* ::ref:`toc`
+* :ref:`toc`
