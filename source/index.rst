@@ -7,7 +7,7 @@ Welcome to sphinxReadTheDocsDemo's documentation!
 =================================================
 欢迎来到 sphinxReadTheDocsDemo 的文档!
 ======================================
-欢迎来到github sphinxReadTheDocsDemo 的文档!
+欢迎来到github 的文档!
 ============================================
 
 .. toctree::
